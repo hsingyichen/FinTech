@@ -19,7 +19,7 @@
    * 本週進度：跨校合作分組名單、建立github-fintech repo
   ### 第三週
    * 課程說明：
-   * [HW1]()-
+   * [HW1](https://github.com/hsingyichen/FinTech/blob/main/HW1/cloudcomputing.md)-什麼是雲端運算
   ### 第四週
   ### 第五週
   ### 第六週
