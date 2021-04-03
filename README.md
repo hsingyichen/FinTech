@@ -24,6 +24,8 @@
    * 課程說明：
    * [HW1-什麼是雲端運算](https://github.com/hsingyichen/FinTech/blob/main/HW1/cloudcomputing.md)
   ### 第四週
+   * 課程說明：
+   * [HW2-Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=v7lfZeK3Sik)
   ### 第五週
   ### 第六週
 
