@@ -28,7 +28,7 @@
    * [HW2-Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=v7lfZeK3Sik)
   ### 第五週
    * 課程說明
-   * [HW3-Build a Website using Amazon S3 and AWS Amplify!（https://www.youtube.com/watch?v=q-v2G2_7sS4)
+   * [HW3-Build a Website using Amazon S3 and AWS Amplify!](https://www.youtube.com/watch?v=q-v2G2_7sS4)
 
   ### 第六週
 
