@@ -27,10 +27,12 @@
    * 課程說明：
    * [HW2-Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=v7lfZeK3Sik)
   ### 第五週
-   * 課程說明
+   * 課程說明:
    * [HW3-Build a Website using Amazon S3 and AWS Amplify!](https://www.youtube.com/watch?v=q-v2G2_7sS4)
 
   ### 第六週
+  * 課程說明:
+   * [HW4-Build a Telegram Chatbot using Amazon APIGateway and AWS Lambda.](https://youtu.be/SZGgQldmZvI)
 
 ---
 ## 跨校合作案-南山人壽題目一「文本生成--市場焦點機器人」
