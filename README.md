@@ -35,7 +35,15 @@
   ### 第六週
   * 課程說明:Chatbot、API and HTTP、API Gateway and AWS Lambda、Serverless、Telegram Chatbot API
   * 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。
-   * [HW4-Build a Telegram Chatbot using Amazon APIGateway and AWS Lambda.](https://youtu.be/SZGgQldmZvI)
+  * [HW4-Build a Telegram Chatbot using Amazon APIGateway and AWS Lambda.](https://youtu.be/SZGgQldmZvI)
+
+  ### 第七週
+  * 清明節放假
+
+  ### 第八週
+  * 課程說明：AWS Database Services、Amazon RDS、AWS DynamoDB
+  * 本次無作業，與下週一起出作業
+
 
 ---
 ## 跨校合作案-南山人壽題目一「文本生成--市場焦點機器人」
