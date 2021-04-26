@@ -25,15 +25,16 @@
    * [HW1-什麼是雲端運算](https://github.com/hsingyichen/FinTech/blob/main/HW1/cloudcomputing.md)
   ### 第四週
    * 課程說明：Amazon EC2、Linux Command、Amazon EC2 with LAMP、Upload a folder/file to EC2、AWS Amplify
-   * 雲端服務課程後，藉由 Linux 2 虛擬機完成安裝，並成功啟動網頁伺服器與資料庫伺服器的功能。
+   * 藉由 Linux 2 虛擬機完成安裝，並成功啟動網頁伺服器與資料庫伺服器的功能。
    * [HW2-Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=v7lfZeK3Sik)
   ### 第五週
    * 課程說明:AWS IAM、Amazon S3、Amazon S3 Versioning、Amazon S3 hosting static web、AWS Amplify
-   * 雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
+   * 運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
    * [HW3-Build a Website using Amazon S3 and AWS Amplify!](https://www.youtube.com/watch?v=q-v2G2_7sS4)
 
   ### 第六週
-  * 課程說明:
+  * 課程說明:Chatbot、API and HTTP、API Gateway and AWS Lambda、Serverless、Telegram Chatbot API
+  * 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。
    * [HW4-Build a Telegram Chatbot using Amazon APIGateway and AWS Lambda.](https://youtu.be/SZGgQldmZvI)
 
 ---
