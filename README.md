@@ -42,7 +42,15 @@
 
   ### 第八週
   * 課程說明：AWS Database Services、Amazon RDS、AWS DynamoDB
-  * 本次無作業，與下週一起出作業
+  * 運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。
+  * [HW5-Create a Database using Amazon RDS or Amazon DynamoDB]()
+
+  ### 第九週
+  * 課程說明：Docker
+  * 本次作業:
+
+  ### 第十週
+  * 課程說明：[第一次專題進度報告之老師助教回饋](http://isee.scu.edu.tw/mod/url/view.php?id=716007)
 
 
 ---
