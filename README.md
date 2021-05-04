@@ -43,7 +43,7 @@
   ### 第八週
   * 課程說明：AWS Database Services、Amazon RDS、AWS DynamoDB
   * 運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。
-  * [HW5-Create a Database using Amazon RDS or Amazon DynamoDB]()
+  * [HW5-Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/0HDUJoIQhA4)
 
   ### 第九週
   * 課程說明：Docker
