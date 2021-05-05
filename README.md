@@ -31,7 +31,7 @@
    * 課程說明:AWS IAM、Amazon S3、Amazon S3 Versioning、Amazon S3 hosting static web、AWS Amplify
    * 運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
    * [HW3-Build a Website using Amazon S3 and AWS Amplify!](https://www.youtube.com/watch?v=q-v2G2_7sS4)
-      ＝>第五次功課借了別人的電腦進行demo,因為出了點問題,但之後會再重新用自己的電腦demo一次
+      ＝>第五次功課借了別人的電腦進行demo,因為出了點問題（jupyter功能無法啟動，mysql嘗試安裝卻出bug,之後會一起解決),但之後會再重新用自己的電腦demo一次
 
   ### 第六週
   * 課程說明:Chatbot、API and HTTP、API Gateway and AWS Lambda、Serverless、Telegram Chatbot API
