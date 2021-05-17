@@ -48,10 +48,10 @@
 
   ### 第九週
   * 課程說明：Docker
-  * 本次作業:
+  * [HW6-Create a Docker Container or Build your own Project Services!](https://www.youtube.com/watch?v=-kA4WgqJ6jU)
 
   ### 第十週
-  * 課程說明：[第一次專題進度報告之老師助教回饋](https://drive.google.com/file/d/156ahy2ZjOEyuM6gjxrwC_DkQCxI4hmgo/view?usp=sharing)
+  * 課程說明：[第一次專題進度報告之老師助教回饋](https://www.youtube.com/watch?v=k0uzBbhp3nw)
 
 
 ---
